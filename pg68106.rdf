@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+>
+  <pgterms:ebook rdf:about="ebooks/68106">
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:title>Nick Carter Stories No. 152, August 7, 1915; The Forced Crime; or, Nick Carter’s Brazen Clew.</dcterms:title>
+    <pgterms:marc907>us</pgterms:marc907>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/4161">
+        <pgterms:name>Carter, Nicholas (House name)</pgterms:name>
+        <pgterms:webpage rdf:resource="ebooks/author/1599"/>
+        <pgterms:webpage rdf:resource="ebooks/author/43953"/>
+        <pgterms:alias>Carter, Nick</pgterms:alias>
+        <pgterms:webpage rdf:resource="ebooks/author/2983"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68106/68106-0.txt">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2767b7c358cc4775af6270c908285dd2">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-17T09:27:22</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68106"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231157</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <pgterms:marc906>1914</pgterms:marc906>
+    <pgterms:marc905>20200418182501carter</pgterms:marc905>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68106/68106-0.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9bb5d7829d924250a85c0b58874876c3">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68106"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-17T09:27:51</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N97016b3e36244718b7bc9de96d97e47c">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87611</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68106/68106-h.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-17T09:27:51</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7aef8260de8a4aceadf96cafc4c28463">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354512</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68106"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ncdc198174c1440db95a7f45720d72137">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc260>United States :Street &amp; Smaith,1914,copyright 1915.</pgterms:marc260>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N39537deb53144255be3dd7bccf213a59">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <pgterms:marc904>https://dimenovels.lib.niu.edu/islandora/object/dimenovels%3A86131#page/1/mode/1up</pgterms:marc904>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68106/68106-h/68106-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-17T09:27:22</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68106"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255033</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na15eb770fb4d485cb4a33c83a2b4bec7">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-17</dcterms:issued>
+    <marcrel:edt>
+      <pgterms:agent rdf:about="2009/agents/54574">
+        <pgterms:name>Carter, Chickering</pgterms:name>
+      </pgterms:agent>
+    </marcrel:edt>
+    <pgterms:marc508>David Edwards, Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net (Northern Illinois University Digital Library)</pgterms:marc508>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="ebooks/author/43953">
+    <dcterms:description>More titles under Burton, Frederick R. (Frederick Russell)</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="ebooks/author/1599">
+    <dcterms:description>More titles under Rathborne, St. George</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="ebooks/author/2983">
+    <dcterms:description>More titles under Cox, Stephen Angus Douglas</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
